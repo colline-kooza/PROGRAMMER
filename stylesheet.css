@@ -1,0 +1,163 @@
+.section-1{
+    background: black;
+    color: aliceblue;
+    margin: 40px;
+    padding: 50px;
+    text-align: center;
+    font-size: x-large;
+}
+.span{
+    color: blue;
+}
+.hr{
+    align-content: center;
+}
+.section-2{
+    color: blue;
+    text-align: center;
+    font-size: larger;
+}
+.p-1{
+    border: 2px solid blue; 
+    border-style: dotted;
+    padding: 30px;
+    margin: 50px;
+    font-size:x-large;
+}
+.span-1{
+    color: blue;
+    text-decoration: underline;
+}
+.section-4{
+    text-align: center;
+    color: blue;
+    font-size: larger;
+}
+.image{
+    height: 50px;
+    width: 50px;
+}
+.image-2{
+    border: 8px solid black;
+    height: 400px;
+    width: 400px;
+    margin: 100px;
+    rotate: 20deg;
+    transition: all .6s;
+}
+.image-2:hover{
+    transform: scale(0.8);
+    rotate: 5deg;
+}
+
+.image-0{
+    border: 8px dotted red;
+    height: 400px;
+    width: 400px;
+    margin: 100px;
+    rotate: 20deg;
+    transition: all .6s;
+    animation: spin 2s linear infinite;
+
+/* }
+@keyframes spin{
+    0%{transform: rotate(0deg);}
+    100%{transform: rotate(360deg);} */
+}
+.image-0:hover{
+    transform: scale(0.8);
+    rotate: 40deg;
+}
+/* <br>
+<br> */
+
+.section-6{
+    color: blue;
+    text-align: center;
+    font-size: larger;
+}
+.button1 {
+    background: blue;
+    color: aliceblue;
+    border-radius: 50px;
+    font-size: larger;
+    margin: 9px;
+    padding: 9px;
+}
+.button2 {
+    background: blue;
+    color: aliceblue;
+    border-radius: 50px;
+    font-size: larger;
+    margin: -10px;}
+    .button3 {
+        background: hsl(240, 10%, 87%);
+        color: rgb(53, 24, 213);
+        border-radius: 50px;
+        font-size: larger;
+        margin: -30px;}
+.section-7{
+    color: blue;
+    font-size: large;
+    text-align: center;
+}
+.p-2{
+    border: 2px dotted blue;
+    color: black;
+    padding: 10px;
+    margin: 50px;
+    font-size: larger;
+}
+.span-z{
+    color: blue;
+    text-decoration: underline;
+}
+.span-zz{
+ font-family:Arial Black ;
+}
+.header1{
+    color: blue;
+    text-align: center;
+    font-size: xxlarger;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
